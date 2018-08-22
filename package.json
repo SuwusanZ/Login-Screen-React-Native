@@ -19,8 +19,14 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "appcenter": "^1.7.1",
+    "appcenter-analytics": "^1.7.1",
+    "appcenter-crashes": "^1.7.1",
+    "axios": "^0.18.0",
     "expo": "^27.0.1",
     "react": "16.3.1",
-    "react-native": "~0.55.2"
+    "react-native": "~0.55.2",
+    "react-native-video": "^3.1.0",
+    "react-navigation": "^2.9.3"
   }
 }
